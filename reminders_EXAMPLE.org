@@ -1,0 +1,5 @@
+* TODO Pick up some milk
+SCHEDULED: <2016-07-23 Sat>
+* TODO Call mom
+SCHEDULED: <2016-07-26 Tue>
+* DONE Call Than
